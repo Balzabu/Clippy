@@ -1,3 +1,4 @@
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 # Clippy
 
 Clippy is a script I made to study how Bitcoin Clippers worked. The project is really simple and, as of today, is undetected by the most common anti-viruses ( Kaspersky, Avira, Avast, AVG, etc... )
@@ -19,7 +20,7 @@ Note: With some minor edits you can convert the .py into .exe...
 # FAQ
 
 #### Hey I want the same thing to work with other cryptocurrencies too, can you help me?
-*No. Do it by yourself skiddie.* :+1:
+*No. Do it by yourself.* :+1:
 
 #### Why VirusTotal already flags it?
 *Do some code changes and don't upload it to VirusTotal, easy as that.*
